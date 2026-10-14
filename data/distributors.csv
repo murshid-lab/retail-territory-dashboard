@@ -1,0 +1,8 @@
+distributor_id,distributor_name,area,city,credit_days
+D01,Synthetic Distributor Alpha,Pune East,Pune,15
+D02,Synthetic Distributor Beta,Pune West,Pune,30
+D03,Synthetic Distributor Gamma,Pune West,Pune,21
+D04,Synthetic Distributor Delta,Nashik,Nashik,21
+D05,Synthetic Distributor Epsilon,Nagpur,Nagpur,21
+D06,Synthetic Distributor Zeta,Kolhapur,Kolhapur,30
+D07,Synthetic Distributor Eta,Aurangabad,Aurangabad,15

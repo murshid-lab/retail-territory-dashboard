@@ -1,0 +1,13 @@
+sku_id,sku_name,category,mrp
+SKU01,BLDC Ceiling Fan 1200mm - Model A,BLDC Ceiling Fan,3900
+SKU02,BLDC Ceiling Fan 1200mm - Model B,BLDC Ceiling Fan,4600
+SKU03,BLDC Ceiling Fan 1400mm - Model C,BLDC Ceiling Fan,5200
+SKU04,BLDC Ceiling Fan Premium - Model D,BLDC Ceiling Fan,6400
+SKU05,BLDC Pedestal Fan - Model E,BLDC Pedestal Fan,5600
+SKU06,BLDC Table Fan - Model F,BLDC Pedestal Fan,4300
+SKU07,BLDC Wall Fan - Model G,BLDC Pedestal Fan,4800
+SKU08,Exhaust Fan 150mm - Model H,Exhaust Fan,2300
+SKU09,Exhaust Fan 200mm - Model I,Exhaust Fan,2800
+SKU10,Remote Control - Model J,Accessories,450
+SKU11,Fan Regulator - Model K,Accessories,650
+SKU12,Fan Light Kit - Model L,Accessories,900

@@ -1,0 +1,141 @@
+retailer_id,retailer_name,area,distributor_id,outlet_type,beat_day,potential,monthly_target,is_active,onboarded_date
+R001,Synthetic Retailer 001,Pune East,D01,Electrical,Fri,Medium,78000,1,2023-12-31
+R002,Synthetic Retailer 002,Aurangabad,D07,Electrical,Wed,Medium,73000,1,2024-08-20
+R003,Synthetic Retailer 003,Kolhapur,D06,Electrical,Mon,Medium,68000,1,2025-01-09
+R004,Synthetic Retailer 004,Kolhapur,D06,Appliance Store,Sat,Low,30000,1,2024-11-07
+R005,Synthetic Retailer 005,Pune East,D01,Electrical,Sat,Medium,49000,1,2024-09-02
+R006,Synthetic Retailer 006,Nashik,D04,Appliance Store,Sat,Low,21000,1,2024-11-29
+R007,Synthetic Retailer 007,Pune West,D02,Electrical,Sat,Medium,77000,1,2024-08-09
+R008,Synthetic Retailer 008,Aurangabad,D07,Modern Trade,Mon,Medium,50000,1,2025-09-07
+R009,Synthetic Retailer 009,Nagpur,D05,Appliance Store,Mon,Low,25000,1,2023-01-25
+R010,Synthetic Retailer 010,Kolhapur,D06,Electrical,Fri,Low,32000,1,2023-04-14
+R011,Synthetic Retailer 011,Nashik,D04,Modern Trade,Sat,Medium,53000,1,2023-03-16
+R012,Synthetic Retailer 012,Pune West,D03,Electrical,Wed,High,119000,1,2023-02-19
+R013,Synthetic Retailer 013,Nashik,D04,Appliance Store,Tue,Medium,56000,1,2025-12-05
+R014,Synthetic Retailer 014,Pune East,D01,Electrical,Tue,High,101000,1,2023-01-20
+R015,Synthetic Retailer 015,Kolhapur,D06,Hardware,Fri,High,136000,1,2025-02-02
+R016,Synthetic Retailer 016,Nagpur,D05,Appliance Store,Mon,High,125000,1,2025-06-27
+R017,Synthetic Retailer 017,Nagpur,D05,Modern Trade,Mon,High,94000,1,2024-03-13
+R018,Synthetic Retailer 018,Pune West,D02,Modern Trade,Wed,Low,25000,1,2023-11-12
+R019,Synthetic Retailer 019,Aurangabad,D07,Hardware,Mon,High,121000,1,2025-03-06
+R020,Synthetic Retailer 020,Aurangabad,D07,Modern Trade,Mon,Medium,50000,1,2024-10-17
+R021,Synthetic Retailer 021,Kolhapur,D06,Hardware,Thu,Low,30000,0,2024-12-30
+R022,Synthetic Retailer 022,Pune East,D01,Appliance Store,Mon,Low,24000,1,2023-09-13
+R023,Synthetic Retailer 023,Nashik,D04,Appliance Store,Fri,Medium,66000,1,2023-05-11
+R024,Synthetic Retailer 024,Pune East,D01,Appliance Store,Wed,Medium,78000,1,2025-08-12
+R025,Synthetic Retailer 025,Pune East,D01,Electrical,Sat,Medium,71000,1,2025-11-21
+R026,Synthetic Retailer 026,Nagpur,D05,Hardware,Mon,High,107000,1,2023-06-10
+R027,Synthetic Retailer 027,Nagpur,D05,Electrical,Sat,Medium,77000,1,2023-06-21
+R028,Synthetic Retailer 028,Aurangabad,D07,Electrical,Tue,High,117000,0,2023-01-24
+R029,Synthetic Retailer 029,Pune West,D02,Hardware,Tue,High,115000,1,2025-01-18
+R030,Synthetic Retailer 030,Pune West,D03,Appliance Store,Tue,Medium,72000,0,2025-07-25
+R031,Synthetic Retailer 031,Nashik,D04,Electrical,Tue,High,102000,1,2025-11-09
+R032,Synthetic Retailer 032,Pune East,D01,Electrical,Wed,High,136000,1,2024-07-30
+R033,Synthetic Retailer 033,Pune East,D01,Electrical,Wed,Low,33000,1,2025-07-09
+R034,Synthetic Retailer 034,Nashik,D04,Modern Trade,Sat,Low,21000,1,2025-06-01
+R035,Synthetic Retailer 035,Pune West,D03,Electrical,Thu,Low,31000,1,2024-08-12
+R036,Synthetic Retailer 036,Nagpur,D05,Hardware,Fri,Low,22000,1,2023-10-02
+R037,Synthetic Retailer 037,Pune West,D02,Hardware,Mon,High,110000,1,2024-01-08
+R038,Synthetic Retailer 038,Kolhapur,D06,Electrical,Wed,Medium,60000,1,2024-02-22
+R039,Synthetic Retailer 039,Nagpur,D05,Modern Trade,Fri,Medium,77000,1,2025-04-27
+R040,Synthetic Retailer 040,Pune West,D02,Appliance Store,Wed,Medium,67000,1,2024-08-31
+R041,Synthetic Retailer 041,Kolhapur,D06,Electrical,Thu,Medium,51000,1,2025-03-19
+R042,Synthetic Retailer 042,Kolhapur,D06,Appliance Store,Sat,Low,17000,1,2024-11-30
+R043,Synthetic Retailer 043,Pune West,D02,Electrical,Thu,Low,33000,1,2025-11-21
+R044,Synthetic Retailer 044,Pune West,D03,Hardware,Wed,Low,30000,1,2025-10-21
+R045,Synthetic Retailer 045,Nagpur,D05,Hardware,Sat,Medium,46000,1,2023-04-15
+R046,Synthetic Retailer 046,Pune East,D01,Hardware,Mon,High,118000,1,2025-01-17
+R047,Synthetic Retailer 047,Pune East,D01,Appliance Store,Thu,Low,25000,1,2024-06-25
+R048,Synthetic Retailer 048,Pune East,D01,Electrical,Fri,Low,17000,1,2024-06-21
+R049,Synthetic Retailer 049,Kolhapur,D06,Appliance Store,Thu,Medium,52000,1,2025-01-08
+R050,Synthetic Retailer 050,Nagpur,D05,Appliance Store,Thu,Low,20000,1,2024-08-08
+R051,Synthetic Retailer 051,Nagpur,D05,Electrical,Tue,High,94000,1,2025-10-26
+R052,Synthetic Retailer 052,Kolhapur,D06,Appliance Store,Tue,Medium,64000,1,2024-02-01
+R053,Synthetic Retailer 053,Nashik,D04,Electrical,Fri,Medium,67000,1,2025-12-21
+R054,Synthetic Retailer 054,Nashik,D04,Electrical,Tue,Low,32000,1,2023-05-16
+R055,Synthetic Retailer 055,Pune East,D01,Appliance Store,Mon,Medium,64000,1,2023-01-14
+R056,Synthetic Retailer 056,Pune East,D01,Electrical,Sat,Low,24000,1,2023-01-14
+R057,Synthetic Retailer 057,Nagpur,D05,Appliance Store,Tue,Low,25000,1,2023-05-02
+R058,Synthetic Retailer 058,Nashik,D04,Electrical,Fri,Low,31000,1,2025-01-02
+R059,Synthetic Retailer 059,Nashik,D04,Appliance Store,Sat,Low,27000,1,2023-04-10
+R060,Synthetic Retailer 060,Kolhapur,D06,Electrical,Wed,High,97000,1,2025-06-08
+R061,Synthetic Retailer 061,Nagpur,D05,Appliance Store,Tue,Low,33000,0,2023-02-09
+R062,Synthetic Retailer 062,Nashik,D04,Hardware,Sat,High,130000,1,2023-11-13
+R063,Synthetic Retailer 063,Nashik,D04,Appliance Store,Sat,High,138000,1,2025-10-17
+R064,Synthetic Retailer 064,Pune West,D03,Electrical,Fri,Low,24000,1,2023-08-10
+R065,Synthetic Retailer 065,Pune East,D01,Appliance Store,Thu,Medium,67000,1,2024-05-08
+R066,Synthetic Retailer 066,Pune West,D02,Electrical,Mon,Low,20000,1,2024-07-28
+R067,Synthetic Retailer 067,Pune East,D01,Electrical,Sat,Medium,47000,0,2024-11-08
+R068,Synthetic Retailer 068,Pune West,D02,Electrical,Sat,Low,22000,1,2023-04-11
+R069,Synthetic Retailer 069,Kolhapur,D06,Hardware,Thu,Low,30000,1,2025-08-17
+R070,Synthetic Retailer 070,Pune West,D03,Modern Trade,Thu,High,105000,1,2024-08-14
+R071,Synthetic Retailer 071,Pune East,D01,Modern Trade,Fri,Medium,50000,1,2023-06-13
+R072,Synthetic Retailer 072,Pune West,D03,Electrical,Wed,Medium,79000,1,2023-05-28
+R073,Synthetic Retailer 073,Pune West,D02,Hardware,Tue,Medium,59000,1,2024-11-29
+R074,Synthetic Retailer 074,Nagpur,D05,Electrical,Sat,Medium,65000,1,2025-10-09
+R075,Synthetic Retailer 075,Nashik,D04,Hardware,Mon,Medium,50000,1,2023-09-06
+R076,Synthetic Retailer 076,Kolhapur,D06,Appliance Store,Thu,Medium,67000,1,2024-11-09
+R077,Synthetic Retailer 077,Nagpur,D05,Hardware,Tue,Low,18000,1,2024-04-19
+R078,Synthetic Retailer 078,Pune West,D03,Appliance Store,Wed,Medium,64000,1,2025-09-02
+R079,Synthetic Retailer 079,Kolhapur,D06,Hardware,Tue,Medium,72000,1,2024-07-25
+R080,Synthetic Retailer 080,Pune East,D01,Electrical,Sat,Medium,46000,1,2023-03-21
+R081,Synthetic Retailer 081,Pune East,D01,Electrical,Thu,High,106000,1,2025-03-14
+R082,Synthetic Retailer 082,Pune East,D01,Electrical,Tue,Low,23000,1,2025-06-28
+R083,Synthetic Retailer 083,Nagpur,D05,Electrical,Tue,Medium,66000,1,2024-07-13
+R084,Synthetic Retailer 084,Nashik,D04,Modern Trade,Wed,Low,23000,1,2025-04-29
+R085,Synthetic Retailer 085,Pune East,D01,Appliance Store,Fri,Low,22000,1,2024-01-02
+R086,Synthetic Retailer 086,Nashik,D04,Hardware,Mon,Medium,61000,1,2023-06-30
+R087,Synthetic Retailer 087,Pune East,D01,Modern Trade,Sat,Low,26000,1,2025-05-31
+R088,Synthetic Retailer 088,Nagpur,D05,Hardware,Sat,High,132000,1,2024-03-07
+R089,Synthetic Retailer 089,Nashik,D04,Hardware,Wed,Low,24000,1,2023-12-03
+R090,Synthetic Retailer 090,Pune West,D02,Electrical,Thu,Low,19000,1,2023-08-02
+R091,Synthetic Retailer 091,Pune West,D02,Hardware,Mon,Medium,47000,1,2025-07-13
+R092,Synthetic Retailer 092,Nagpur,D05,Hardware,Sat,Medium,59000,1,2025-01-07
+R093,Synthetic Retailer 093,Pune West,D03,Hardware,Mon,Medium,75000,1,2024-01-08
+R094,Synthetic Retailer 094,Pune East,D01,Appliance Store,Fri,Medium,74000,1,2024-04-18
+R095,Synthetic Retailer 095,Pune East,D01,Appliance Store,Sat,Medium,58000,1,2024-01-10
+R096,Synthetic Retailer 096,Aurangabad,D07,Electrical,Mon,Medium,58000,1,2024-11-22
+R097,Synthetic Retailer 097,Aurangabad,D07,Electrical,Thu,High,105000,0,2023-07-30
+R098,Synthetic Retailer 098,Nagpur,D05,Hardware,Wed,Low,21000,1,2024-09-15
+R099,Synthetic Retailer 099,Pune West,D02,Appliance Store,Thu,Medium,67000,1,2025-06-02
+R100,Synthetic Retailer 100,Aurangabad,D07,Appliance Store,Thu,Medium,67000,1,2025-09-20
+R101,Synthetic Retailer 101,Kolhapur,D06,Appliance Store,Wed,Low,32000,1,2024-07-11
+R102,Synthetic Retailer 102,Nagpur,D05,Hardware,Fri,Medium,78000,1,2024-12-20
+R103,Synthetic Retailer 103,Nashik,D04,Electrical,Fri,Low,29000,1,2024-12-01
+R104,Synthetic Retailer 104,Pune West,D02,Electrical,Thu,High,128000,1,2025-08-20
+R105,Synthetic Retailer 105,Pune East,D01,Modern Trade,Sat,Medium,53000,1,2024-03-28
+R106,Synthetic Retailer 106,Aurangabad,D07,Hardware,Thu,High,130000,1,2024-05-03
+R107,Synthetic Retailer 107,Nashik,D04,Electrical,Fri,High,137000,1,2023-02-23
+R108,Synthetic Retailer 108,Pune East,D01,Appliance Store,Thu,Low,30000,1,2025-03-24
+R109,Synthetic Retailer 109,Pune West,D03,Electrical,Sat,Low,19000,1,2023-09-15
+R110,Synthetic Retailer 110,Nashik,D04,Hardware,Sat,High,103000,0,2025-01-15
+R111,Synthetic Retailer 111,Pune East,D01,Appliance Store,Thu,Medium,68000,1,2024-04-01
+R112,Synthetic Retailer 112,Kolhapur,D06,Appliance Store,Sat,Medium,76000,1,2023-11-25
+R113,Synthetic Retailer 113,Nagpur,D05,Electrical,Thu,Medium,76000,1,2025-01-17
+R114,Synthetic Retailer 114,Nagpur,D05,Appliance Store,Mon,Medium,59000,1,2025-06-07
+R115,Synthetic Retailer 115,Pune West,D03,Electrical,Tue,Medium,49000,1,2024-09-24
+R116,Synthetic Retailer 116,Nagpur,D05,Hardware,Mon,Low,22000,1,2023-08-30
+R117,Synthetic Retailer 117,Nashik,D04,Electrical,Wed,High,94000,1,2023-03-15
+R118,Synthetic Retailer 118,Nagpur,D05,Hardware,Sat,High,121000,1,2024-05-09
+R119,Synthetic Retailer 119,Pune East,D01,Appliance Store,Wed,Low,25000,1,2024-08-17
+R120,Synthetic Retailer 120,Pune West,D02,Electrical,Sat,Medium,76000,1,2025-09-26
+R121,Synthetic Retailer 121,Pune East,D01,Hardware,Thu,Low,28000,1,2025-07-29
+R122,Synthetic Retailer 122,Nashik,D04,Electrical,Tue,Medium,57000,1,2025-08-19
+R123,Synthetic Retailer 123,Pune West,D02,Appliance Store,Thu,Low,27000,1,2024-04-27
+R124,Synthetic Retailer 124,Pune East,D01,Appliance Store,Tue,Low,31000,1,2023-10-21
+R125,Synthetic Retailer 125,Pune East,D01,Hardware,Fri,High,105000,1,2023-04-23
+R126,Synthetic Retailer 126,Nashik,D04,Hardware,Sat,Low,23000,0,2025-10-28
+R127,Synthetic Retailer 127,Pune East,D01,Electrical,Sat,High,92000,0,2023-09-28
+R128,Synthetic Retailer 128,Aurangabad,D07,Hardware,Fri,Medium,55000,0,2025-07-26
+R129,Synthetic Retailer 129,Nashik,D04,Electrical,Mon,Medium,76000,1,2025-02-07
+R130,Synthetic Retailer 130,Pune West,D03,Hardware,Tue,Medium,50000,1,2023-01-02
+R131,Synthetic Retailer 131,Nashik,D04,Electrical,Mon,Low,25000,1,2023-02-02
+R132,Synthetic Retailer 132,Pune East,D01,Appliance Store,Tue,Medium,61000,1,2025-07-14
+R133,Synthetic Retailer 133,Aurangabad,D07,Electrical,Sat,Medium,61000,1,2024-01-02
+R134,Synthetic Retailer 134,Nashik,D04,Modern Trade,Tue,Medium,61000,1,2023-02-23
+R135,Synthetic Retailer 135,Kolhapur,D06,Electrical,Thu,Low,15000,1,2023-01-23
+R136,Synthetic Retailer 136,Pune East,D01,Electrical,Sat,High,130000,1,2023-02-04
+R137,Synthetic Retailer 137,Nashik,D04,Electrical,Mon,Medium,64000,1,2025-01-26
+R138,Synthetic Retailer 138,Nashik,D04,Appliance Store,Sat,High,116000,1,2024-11-12
+R139,Synthetic Retailer 139,Aurangabad,D07,Appliance Store,Tue,Low,20000,1,2024-09-04
+R140,Synthetic Retailer 140,Nashik,D04,Modern Trade,Wed,Medium,47000,1,2024-02-02
